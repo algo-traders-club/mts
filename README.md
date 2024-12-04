@@ -1,6 +1,6 @@
 ## MTS - Matrix Trading System
 
-An agentic framework for algorithmic trading on Hyperliquid.
+An agentic framework for algorithmic trading on [Hyperliquid](https://app.hyperliquid.xyz/trade).
 
 ### Toolbelt
 
