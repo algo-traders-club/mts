@@ -4,10 +4,10 @@ An agentic framework for algorithmic trading on Hyperliquid.
 
 ### Toolbelt
 
-- [x] [Hyperliquid API](https://docs.hyperliquid.io/) - DEX
+- [x] [Hyperliquid API](https://hyperliquid.gitbook.io/hyperliquid-docs) - DEX
 - [x] [Python](https://www.python.org/) - Language
-- [x] [Cursor](https://www.cursor.sh/) - IDE
-- [x] [ChatGPT](https://openai.com/chatgpt/) - LLM
-- [x] [ClaudeAI](https://www.anthropic.com/chat) - LLM
+- [x] [Cursor](https://www.cursor.com/) - IDE
+- [x] [ChatGPT](https://chatgpt.com/) - LLM
+- [x] [ClaudeAI](https://claude.ai/) - LLM
 
 © Copyright 2024 Algo Traders Club - MIT License
