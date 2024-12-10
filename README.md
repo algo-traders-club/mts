@@ -2,7 +2,7 @@
 
 # MTS - Matrix Trading System
 
-An agentic crypto trading system for Hyperliquid.
+An agentic crypto trading system for [Hyperliquid](https://hyperliquid.xyz).
 
 ## Overview
 
