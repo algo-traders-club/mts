@@ -167,7 +167,7 @@ USE THIS SOFTWARE AT YOUR OWN RISK. THE AUTHORS AND CONTRIBUTORS OF THIS PROJECT
 For help and discussions:
 
 - Join our Discord server
-- Check the [Wiki](https://github.com/algotraders/mts/wiki)
+- Check the [Wiki](https://github.com/algo-traders-club/mts/wiki)
 - Raise issues on GitHub
 
 ## License
