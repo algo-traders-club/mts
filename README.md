@@ -1,4 +1,4 @@
-## MTS (Matrix Trading System)
+## MTS - Matrix Trading System
 
 An agentic crypto trading system for Hyperliquid.
 
